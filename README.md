@@ -4,5 +4,5 @@
 <!-- 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning advance programming, artificial intelligence, machine learning, mobile development, and web development
+- 😍 I love computer science, engineering, and everything in between.
 - 📫 How to reach me: nino_magsano@dlsu.edu.ph
