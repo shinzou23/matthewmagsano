@@ -4,5 +4,7 @@
 <!-- 
 Here are some ideas to get you started: -->
 
+<!-- 
 - 😍 I like computer science, engineering, and everything in between.
 - 📫 How to reach me: nino_magsano@dlsu.edu.ph
+-->
